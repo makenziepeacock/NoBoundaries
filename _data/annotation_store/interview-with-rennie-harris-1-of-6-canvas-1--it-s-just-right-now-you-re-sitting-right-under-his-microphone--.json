@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--it-s-just-right-now-you-re-sitting-right-under-his-microphone--.json",
+  "type": "AnnotationPage",
+  "label": " it's just right now you're sitting right under his microphone-\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1--it-s-just-right-now-you-re-sitting-right-under-his-microphone---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"... it might be best for ... well",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dave",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "95.0,100.0"
+        }
+      }
+    }
+  ]
+}

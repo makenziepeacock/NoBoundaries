@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--like--.json",
+  "type": "AnnotationPage",
+  "label": " like-\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1--like---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"We decided that we had to have a couch that had arms that functioned as seats for extra",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Speaker 5",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "355.0,359.0"
+        }
+      }
+    }
+  ]
+}

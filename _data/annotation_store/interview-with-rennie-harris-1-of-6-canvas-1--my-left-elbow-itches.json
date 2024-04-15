@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--my-left-elbow-itches.json",
+  "type": "AnnotationPage",
+  "label": " my left elbow itches",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1--my-left-elbow-itches-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Me either. It makes my ears ... my ear turns red",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "and I'm like-\"",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "272.0,277.0"
+        }
+      }
+    }
+  ]
+}

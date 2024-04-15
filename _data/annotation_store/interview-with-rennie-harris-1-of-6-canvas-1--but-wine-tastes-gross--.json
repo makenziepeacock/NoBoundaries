@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--but-wine-tastes-gross--.json",
+  "type": "AnnotationPage",
+  "label": " but wine tastes gross.\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1--but-wine-tastes-gross---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Yeah",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dave",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252.0,253.0"
+        }
+      }
+    }
+  ]
+}

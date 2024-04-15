@@ -1,0 +1,1256 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1-speaker-1.json",
+  "type": "AnnotationPage",
+  "label": "Speaker 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "(silence) [inaudible 00:00:12].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "12.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I don't. [crosstalk 00:00:24].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "24.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yep.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.0,33.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Got it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "34.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That bar looks good behind you. Should I put some bourbon up there?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "49.0,52.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Do you want-",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53.0,54.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... do you want a glass of bourbon?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53.0,54.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Is this Bulleit Rye okay [then 00:01:29]?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "88.0,89.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Gesel do you want any?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "89.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Do you want some?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "89.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Do you want ice or no ice?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "92.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There's always bourbon at [inaudible 00:02:10] house.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "129.0,130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It may have been a little configured.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "136.0,137.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I should probably [crosstalk 00:02:33].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "153.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What's her fake wine?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "233.0,234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Grape juice?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What's the point of that? Calories.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "239.0,242.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What's the point of-",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "250.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... To have the calories [crosstalk 00:04:18] but I'm going to drink a Coke if I'm going to-",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257.0,258.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... Like beer.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "263.0,264.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I feel bloated after that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.0,267.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... Yes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "278.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "285.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mm-mm (negative). Red wine sometimes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "288.0,290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... [crosstalk 00:04:55]. Do you guys mind me being in here?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.0,296.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[crosstalk 00:04:56]?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "296.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yell it from over here?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "302.0,303.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's behind you. Is it [inaudible 00:05:11]?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "310.0,311.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's '60s.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "344.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Probably late.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "345.0,346.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The white arms will be the [soles 00:05:50].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "348.0,350.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-1-of-6-canvas-1-speaker-1-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "\"Interview",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "352.0"
+        }
+      }
+    }
+  ]
+}

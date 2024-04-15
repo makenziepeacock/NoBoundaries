@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"It's like",
+          "value": "\"\"\"It's like",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "but beer like ... kicks-\"",
+          "value": "but beer like ... kicks-\"\"\"",
           "format": "text/plain",
           "purpose": "tagging"
         }

@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "That little flippy switch.",
+          "value": "\"\"\"That little flippy switch.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -54,7 +54,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yeah.",
+          "value": "\"\"\"Yeah.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -93,7 +93,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Right",
+          "value": "\"\"\"Right\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -132,7 +132,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "So Gesel-",
+          "value": "\"\"\"So Gesel-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -171,7 +171,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "It might have been [inaudible 00:02:16].",
+          "value": "\"\"\"It might have been [inaudible 00:02:16].\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -210,7 +210,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I'm gonna work on it for now.",
+          "value": "\"\"\"I'm gonna work on it for now.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -249,7 +249,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "[crosstalk 00:02:54] that's basically a hot and [stick 00:02:54] there.",
+          "value": "\"\"\"[crosstalk 00:02:54] that's basically a hot and [stick 00:02:54] there.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -288,7 +288,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I think we're good to go.",
+          "value": "\"\"\"I think we're good to go.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -327,7 +327,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Just like at a party-",
+          "value": "\"\"\"Just like at a party-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -366,7 +366,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... when you run out of seats.",
+          "value": "\"\"\"... when you run out of seats.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -405,7 +405,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yeah.",
+          "value": "\"\"\"Yeah.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -444,7 +444,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "All right. ",
+          "value": "\"\"\"All right. \"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -483,7 +483,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "We're pretty much good to go here.",
+          "value": "\"\"\"We're pretty much good to go here.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },

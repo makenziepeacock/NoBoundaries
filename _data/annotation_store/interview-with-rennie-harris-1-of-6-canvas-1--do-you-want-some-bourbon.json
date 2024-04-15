@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"With the pinky up? Dave",
+          "value": "\"\"\"With the pinky up? Dave",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "or do [inaudible 00:02:27] working it?\"",
+          "value": "or do [inaudible 00:02:27] working it?\"\"\"",
           "format": "text/plain",
           "purpose": "tagging"
         }

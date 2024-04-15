@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "(silence) [inaudible 00:00:12].",
+          "value": "\"\"\"(silence) [inaudible 00:00:12].\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -54,7 +54,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I don't. [crosstalk 00:00:24].",
+          "value": "\"\"\"I don't. [crosstalk 00:00:24].\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -93,7 +93,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yep.",
+          "value": "\"\"\"Yep.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -132,7 +132,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Got it.",
+          "value": "\"\"\"Got it.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -171,7 +171,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "That bar looks good behind you. Should I put some bourbon up there?",
+          "value": "\"\"\"That bar looks good behind you. Should I put some bourbon up there?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -210,7 +210,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Do you want-",
+          "value": "\"\"\"Do you want-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -249,7 +249,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... do you want a glass of bourbon?",
+          "value": "\"\"\"... do you want a glass of bourbon?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -288,7 +288,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Is this Bulleit Rye okay [then 00:01:29]?",
+          "value": "\"\"\"Is this Bulleit Rye okay [then 00:01:29]?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -327,7 +327,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Gesel do you want any?",
+          "value": "\"\"\"Gesel do you want any?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -366,7 +366,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Do you want some?",
+          "value": "\"\"\"Do you want some?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -405,7 +405,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Do you want ice or no ice?",
+          "value": "\"\"\"Do you want ice or no ice?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -444,7 +444,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "There's always bourbon at [inaudible 00:02:10] house.",
+          "value": "\"\"\"There's always bourbon at [inaudible 00:02:10] house.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -483,7 +483,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "It may have been a little configured.",
+          "value": "\"\"\"It may have been a little configured.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -522,7 +522,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I should probably [crosstalk 00:02:33].",
+          "value": "\"\"\"I should probably [crosstalk 00:02:33].\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -561,7 +561,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "What's her fake wine?",
+          "value": "\"\"\"What's her fake wine?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -600,7 +600,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Grape juice?",
+          "value": "\"\"\"Grape juice?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -639,7 +639,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "What's the point of that? Calories.",
+          "value": "\"\"\"What's the point of that? Calories.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -678,7 +678,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "What's the point of-",
+          "value": "\"\"\"What's the point of-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -717,7 +717,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... To have the calories [crosstalk 00:04:18] but I'm going to drink a Coke if I'm going to-",
+          "value": "\"\"\"... To have the calories [crosstalk 00:04:18] but I'm going to drink a Coke if I'm going to-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -756,7 +756,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... Like beer.",
+          "value": "\"\"\"... Like beer.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -795,7 +795,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I feel bloated after that.",
+          "value": "\"\"\"I feel bloated after that.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -834,7 +834,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... Yes.",
+          "value": "\"\"\"... Yes.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -873,7 +873,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... Yeah.",
+          "value": "\"\"\"... Yeah.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -912,7 +912,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Mm-mm (negative). Red wine sometimes.",
+          "value": "\"\"\"Mm-mm (negative). Red wine sometimes.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -951,7 +951,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... [crosstalk 00:04:55]. Do you guys mind me being in here?",
+          "value": "\"\"\"... [crosstalk 00:04:55]. Do you guys mind me being in here?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -990,7 +990,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "[crosstalk 00:04:56]?",
+          "value": "\"\"\"[crosstalk 00:04:56]?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1029,7 +1029,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yell it from over here?",
+          "value": "\"\"\"Yell it from over here?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1068,7 +1068,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "It's behind you. Is it [inaudible 00:05:11]?",
+          "value": "\"\"\"It's behind you. Is it [inaudible 00:05:11]?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1107,7 +1107,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "It's '60s.",
+          "value": "\"\"\"It's '60s.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1146,7 +1146,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Probably late.",
+          "value": "\"\"\"Probably late.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1185,7 +1185,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "The white arms will be the [soles 00:05:50].",
+          "value": "\"\"\"The white arms will be the [soles 00:05:50].\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1224,7 +1224,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yeah.",
+          "value": "\"\"\"Yeah.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },

@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"They have a fake ... like non-alcoholic",
+          "value": "\"\"\"They have a fake ... like non-alcoholic",
           "format": "text/plain",
           "purpose": "commenting"
         },

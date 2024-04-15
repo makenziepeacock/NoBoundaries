@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Well",
+          "value": "\"\"\"Well",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "it's [crosstalk 00:00:19].\"",
+          "value": "it's [crosstalk 00:00:19].\"\"\"",
           "format": "text/plain",
           "purpose": "tagging"
         }

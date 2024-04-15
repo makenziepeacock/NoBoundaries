@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Word. Word! Look",
+          "value": "\"\"\"Word. Word! Look",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "look-\"",
+          "value": "look-\"\"\"",
           "format": "text/plain",
           "purpose": "tagging"
         }

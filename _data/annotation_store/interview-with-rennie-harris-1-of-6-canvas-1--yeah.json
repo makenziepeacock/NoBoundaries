@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Yeah",
+          "value": "\"\"\"Yeah",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "well red-\"",
+          "value": "well red-\"\"\"",
           "format": "text/plain",
           "purpose": "tagging"
         }

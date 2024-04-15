@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Me either. It makes my ears ... my ear turns red",
+          "value": "\"\"\"Me either. It makes my ears ... my ear turns red",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "and I'm like-\"",
+          "value": "and I'm like-\"\"\"",
           "format": "text/plain",
           "purpose": "tagging"
         }

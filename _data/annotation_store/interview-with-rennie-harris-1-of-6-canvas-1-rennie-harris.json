@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "If mine is-",
+          "value": "\"\"\"If mine is-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -54,7 +54,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Is that where [crosstalk 00:00:41]?",
+          "value": "\"\"\"Is that where [crosstalk 00:00:41]?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -93,7 +93,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I was gonna say girl-",
+          "value": "\"\"\"I was gonna say girl-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -132,7 +132,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"... I think that's one too many.\"\"\"",
+          "value": "\"\"\"... I think that's one too many.\"\"\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -171,7 +171,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Like no.",
+          "value": "\"\"\"Like no.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -210,7 +210,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"... 270 pounds. By the time-\"\"\"",
+          "value": "\"\"\"... 270 pounds. By the time-\"\"\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -249,7 +249,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yeah. Well it's funny 'cause I always-",
+          "value": "\"\"\"Yeah. Well it's funny 'cause I always-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -288,7 +288,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Why thank you [crosstalk 00:02:19].",
+          "value": "\"\"\"Why thank you [crosstalk 00:02:19].\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -327,7 +327,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "It puts that hair on your chest.",
+          "value": "\"\"\"It puts that hair on your chest.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -366,7 +366,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "[crosstalk 00:02:53] doesn't want to know-",
+          "value": "\"\"\"[crosstalk 00:02:53] doesn't want to know-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -405,7 +405,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "... it's ... yeah.",
+          "value": "\"\"\"... it's ... yeah.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -444,7 +444,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Now the non-alcoholic beer I like because it actually tastes-",
+          "value": "\"\"\"Now the non-alcoholic beer I like because it actually tastes-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -483,7 +483,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "That sounds like a Vaudeville show.",
+          "value": "\"\"\"That sounds like a Vaudeville show.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -522,7 +522,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I shouldn't because-",
+          "value": "\"\"\"I shouldn't because-\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -561,7 +561,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "60s?",
+          "value": "\"\"\"60s?\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -600,7 +600,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I had one in [crosstalk 00:05:48] my house awhile ago.",
+          "value": "\"\"\"I had one in [crosstalk 00:05:48] my house awhile ago.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -639,7 +639,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Cause I feel like I'm supported.",
+          "value": "\"\"\"Cause I feel like I'm supported.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -678,7 +678,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "The other one's just like ...",
+          "value": "\"\"\"The other one's just like ...\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -717,7 +717,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yeah.",
+          "value": "\"\"\"Yeah.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -756,7 +756,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Right.",
+          "value": "\"\"\"Right.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -795,7 +795,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "I used Scanner Boys at the very end and the last piece I called Puremovement.",
+          "value": "\"\"\"I used Scanner Boys at the very end and the last piece I called Puremovement.\"\"\"",
           "format": "text/plain",
           "purpose": "commenting"
         },

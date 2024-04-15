@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"So anyway",
+          "value": "\"\"\"So anyway",
           "format": "text/plain",
           "purpose": "commenting"
         },

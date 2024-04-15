@@ -15,7 +15,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"And I was like",
+          "value": "\"\"\"And I was like",
           "format": "text/plain",
           "purpose": "commenting"
         },

@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "No Boundaries" ] },
+    "summary": { "en": [ "A living, breathing archive that uses dance as a vehicle for understanding a distinctly African American theme of resilience in spite of a history of silencing and erasure.\r\n\r\nThis online platform invites the user to navigate materials through a multiplicity of paths and multiple modes of interaction—text, audio, and visuals—translating live dance performance for preservation, enabling an interactive experience, and highlighting the interconnected themes at play.\r\n\r\nBy expanding the genre of Black dance and interrupting the systematic erasure of names lost to the archive, No Boundaries reveals the tenacity and the diversity of Black performance." ] },
+    "items": [
+    ]
+}

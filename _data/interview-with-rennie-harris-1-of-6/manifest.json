@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with Rennie Harris 1 of 6" ] },
+    "homepage": [
+      {
+        "id": "https://dancingdigital.whirlihost.com/Detail/objects/16",
+        "type": "Text",
+        "label": { "en": [ "Interview with Rennie Harris 1 of 6" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://dancingdigital.whirlihost.com/Front/front_page_html",
+        "type": "Agent",
+        "label": { "en": [ "No Boundaries Project" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 712.0,
+        "items": [
+          {
+            "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 712.0
+                },
+                "target": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--what-s-up--i-love-these-couches--so-this-is--70s-right-here----.json",
-            "label": {
-              "none": [" what's up. I love these couches. So this is '70s right here?\"\"\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--but-it-s-quiet.json",
             "label": {
               "none": [" but it's quiet"]

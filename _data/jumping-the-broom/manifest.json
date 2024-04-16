@@ -8,6 +8,40 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/canvas-1/canvas",
         "type": "Canvas",
         "duration": 611.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1-descrption.json",
+            "label": {
+              "none": ["Descrption"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1-transcript.json",
+            "label": {
+              "none": ["Transcript"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1-description-.json",
+            "label": {
+              "none": ["Description "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1-description.json",
+            "label": {
+              "none": ["Description"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/canvas-1/paintings",

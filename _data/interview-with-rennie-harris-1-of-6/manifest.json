@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--but-it-was-a-summer-job-which-is-interesting--it-was-a-summer-job.json",
-            "label": {
-              "none": [" but it was a summer job which is interesting. It was a summer job"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--though.json",
             "label": {
               "none": [" though"]

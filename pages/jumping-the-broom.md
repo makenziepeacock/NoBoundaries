@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Jumping the Broom
 manifest_name: jumping-the-broom
 permalink: jumping-the-broom

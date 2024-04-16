@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--and-just-pull-it-down-and-it-ll-just-be-red-in-it--see-that-little--.json",
-            "label": {
-              "none": [" and just pull it down and it'll just be red in it. See that little-\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--do-you-want-some-bourbon.json",
             "label": {
               "none": [" do you want some bourbon"]

@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--but-here-s-the-funniest-stuff-about-it.json",
-            "label": {
-              "none": [" but here's the funniest stuff about it"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--so-let-s-figure-out-how-to-freak-it-out-and-twist-it.json",
             "label": {
               "none": [" so let's figure out how to freak it out and twist it"]

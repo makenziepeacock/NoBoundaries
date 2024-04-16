@@ -5,7 +5,7 @@
     "label": { "en": [ "Interview with Rennie Harris 1 of 6" ] },
     "homepage": [
       {
-        "id": "https://dancingdigital.whirlihost.com/Detail/objects/16",
+        "id": "https://archive.org/details/rennie-interview-raw-footage-01",
         "type": "Text",
         "label": { "en": [ "Interview with Rennie Harris 1 of 6" ] },
         "format": "text/html"
@@ -13,9 +13,9 @@
     ],
     "provider": [
       {
-        "id": "https://dancingdigital.whirlihost.com/Front/front_page_html",
+        "id": "https://archive.org/",
         "type": "Agent",
-        "label": { "en": [ "No Boundaries Project" ] }
+        "label": { "en": [ "Internet Archive" ] }
       }
     ],
     "items": [
@@ -75,7 +75,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "",
+                  "id": "https://ia600302.us.archive.org/16/items/rennie-interview-raw-footage-01/Rennie%20Interview%20Raw%20Footage%2001.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 712.0
                 },
                 "target": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-1-of-6/canvas-1/canvas"

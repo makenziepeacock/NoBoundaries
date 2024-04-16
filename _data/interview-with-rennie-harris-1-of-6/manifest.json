@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--or----.json",
-            "label": {
-              "none": [" or?\"\"\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1-rennie-harris.json",
             "label": {
               "none": ["Rennie Harris"]

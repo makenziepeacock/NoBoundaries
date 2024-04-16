@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1----cheers--cheers-from-heres------.json",
-            "label": {
-              "none": [" \"\"Cheers! Cheers from heres!\"\"\"\"\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--look.json",
             "label": {
               "none": [" look"]

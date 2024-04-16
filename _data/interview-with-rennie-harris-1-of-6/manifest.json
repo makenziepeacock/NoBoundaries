@@ -27,22 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--super-sinky-sofa----.json",
-            "label": {
-              "none": [" super sinky sofa.\"\"\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--so-it--inaudible-00-00-16---.json",
-            "label": {
-              "none": [" so it [inaudible 00:00:16].\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-1-of-6-canvas-1--yes--there-we-go--.json",
             "label": {
               "none": [" yes. There we go.\""]

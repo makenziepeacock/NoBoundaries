@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1-------lace-of-her-grandmother-s-wedding-dress--we-were-half-way-up-the-stpes-when-the-long-line-of-couples-waiting-in-the-sun------.json",
+  "type": "AnnotationPage",
+  "label": " \"\"...lace of her grandmother's wedding dress. We were half way up the stpes when the long line of couples waiting in the sun...\"\"\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jumping-the-broom-canvas-1-------lace-of-her-grandmother-s-wedding-dress--we-were-half-way-up-the-stpes-when-the-long-line-of-couples-waiting-in-the-sun-------annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The performer curls her fingers into her palms and begins to quickly shake her arms with tension. She then relaxes her hand down again. The voice says",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Description",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "445.0,451.0"
+        }
+      }
+    }
+  ]
+}

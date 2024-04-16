@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1--------and-though-i-have-lived-for-forty-more-years.json",
+  "type": "AnnotationPage",
+  "label": " \"\"... and though I have lived for forty more years",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jumping-the-broom-canvas-1--------and-though-i-have-lived-for-forty-more-years-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The performer drops her hips to the ground then sits down while keeping her hands outstrenched to the right. Focus of her eyes looking out and past her hands. She slowly relaxes her body into the ground. The voice says",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "I cannot remember if I ever got up again.\"\" \"",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "393.0,404.0"
+        }
+      }
+    }
+  ]
+}

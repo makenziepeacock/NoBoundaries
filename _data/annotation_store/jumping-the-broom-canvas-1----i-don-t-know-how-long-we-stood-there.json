@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1----i-don-t-know-how-long-we-stood-there.json",
+  "type": "AnnotationPage",
+  "label": " \"\"I don't know how long we stood there",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jumping-the-broom-canvas-1----i-don-t-know-how-long-we-stood-there-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The performer begins to crawl again. Fliping her body to right then left and pushing her arms against the floor to move her body. Her legs begin to work and she pushes the heels of her feet against the floor. Her voice gasping choking with desperation. The voice says",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "unable to move",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "488.0,516.0"
+        }
+      }
+    }
+  ]
+}

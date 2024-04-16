@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/jumping-the-broom-canvas-1-------the-reflection-in-the-eyes-of-a-heart-that-does-not-if-the-next-beat-is-worth-taking--but-that-s-what-i-saw-in-those-couples----.json",
+  "type": "AnnotationPage",
+  "label": " \"\"...the reflection in the eyes of a heart that does not if the next beat is worth taking. But that's what I saw in those couples.\"\"\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jumping-the-broom-canvas-1-------the-reflection-in-the-eyes-of-a-heart-that-does-not-if-the-next-beat-is-worth-taking--but-that-s-what-i-saw-in-those-couples-----annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The performer continues to ove along the ground inching towards the women. The vocie says",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Description",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/jumping-the-broom/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "466.0,477.0"
+        }
+      }
+    }
+  ]
+}

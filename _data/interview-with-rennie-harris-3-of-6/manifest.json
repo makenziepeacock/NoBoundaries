@@ -23,6 +23,24 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-3-of-6/canvas-1/canvas",
         "type": "Canvas",
         "duration": 718.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-3-of-6-canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-3-of-6-canvas-1-rennie-harris.json",
+            "label": {
+              "none": ["Rennie Harris"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-3-of-6/canvas-1/paintings",

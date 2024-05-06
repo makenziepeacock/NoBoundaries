@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-6-of-6/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with Rennie Harris 6 of 6" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/rennie-interview-raw-footage-05_202404/Rennie+Interview+Raw+Footage+04.mp4",
+        "type": "Text",
+        "label": { "en": [ "Interview with Rennie Harris 6 of 6" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-6-of-6/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 687.0,
+        "items": [
+          {
+            "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-6-of-6/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-6-of-6/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia800309.us.archive.org/2/items/rennie-interview-raw-footage-05_202404/Rennie%20Interview%20Raw%20Footage%2006.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 687.0
+                },
+                "target": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-6-of-6/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

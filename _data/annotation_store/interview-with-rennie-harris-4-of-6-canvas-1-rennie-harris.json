@@ -1,0 +1,476 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris.json",
+  "type": "AnnotationPage",
+  "label": "Rennie Harris",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, when I feel like, just the work ethic of getting the work done and spilling that thing out when I'm ready to do it. Even like today, when you're like ... I was like ... Last, the other day, it was like I need to do 3 more minutes, at least 2 more minutes to get this done. And everybody looked at me like, you're going ... We don't have time to do 2 minutes. So, I was like, no, I'll get it done. I'll do some pre-thing, I actually didn't. I'll do some pre-stuff and when I got there, it just started coming. And it was like okay, I got 10 [inaudible 00:00:44] and you were like, 10 [inaudible 00:00:44]? I was like, I can just cut it short. I said, no, I'll get it done. And boom, and it just comes out.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2019",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17.0,47.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And it always surprises me too. It did surprise me when ya'll turned around and it was like, oh, this is the end. Like we got there. I think that thing about me, about getting that work done, is based on my Philadelphia ... They're hustlers. There's not a lot of talking. They call it no rap. There's no rap. You just get it done, either from the street to the stage. I'll work. Whatever it is. We hustle to get ... To make that money either way. Not that it's unique to Philly. But I can tell you it's a hustle town, a hustle place. And my mom, she had three jobs. I was the oldest. So, I basically raised my kids. I raised my six siblings and changed their diapers and helped out as the oldest, you know what I mean?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2020",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.0,95.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So, my momma always worked. She never let us get up ... Never let us sleep. It was like, \"Get up. You're a man. Men don't sleep past a certain, you know, 6:00 in the morning. Get up.\" But ... So, I get up at 5:00 every morning regardless of how late I stay out because my habit is to get up and do some shit. You know what I mean?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2021",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "95.0,119.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And sometimes now, is nothing, as I can devote my music and go back to sleep. But I still get up. And My girl is like, Why. Are. You. Getting. Up? She's got the things over her face, all this stuff, the lights are matted out, so you can't see any light vampire style. You know what I mean? And I like the sun to rise up and wake me up. You know what I mean?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2022",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "119.0,142.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And so Philly, I feel like, in my mom ... is a hustle place about getting things done. I never waited for grant money. I didn't get seed money to start my company. I hit the ground running. You've got money, we're going to do it, let's go. And I would work it out. What you need? You want twenty minutes? I can do that. This is what I need. This is what you have.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2023",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "142.0,161.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I used to contract people who didn't pay me. I used to make them give us, oh, okay, you don't have any money, so, we want ... [inaudible 00:02:50], we want, nachos, we want coke, this, that and the other thing and we need somebody to pick us up and you know. And you know, where they didn't have any money, I would say, you know what, well, how many old ladies do you have in the school? What do you mean by old ladies? I'd say, anyone over fifty. They're like, we have a bunch. And we'd be like, can they make us dinner and have it ready for us? If so, we'll perform for the school for free, as long as we have dinner.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2024",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.0,196.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I did something that Joyce, we give Roman Julius, Roman Julius is a seventy-thousand dollar a week show, right? A woman from the shelter came on the show. I would love for you guys to some down to the shelter. We have no money. I said don't worry about it. We're not supposed to do stuff like perform within the same frame ... miles and times. I was like, shhh. We're just going to come visit you. So we went down there and did the whole show on this little fucking stage for a sweet, sweet, sweet ass Kool-aide. That was sweet. I think they just put sugar and water into a dot of like red dye, like poof. And how about, we're funny, just walking through with fucking like crates. This stuff's like, there's nobody really looking. You know what I mean? And we did it, she loved it. I said great. You know?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2025",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "197.0,246.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And that's where we come ... Because that's potential money to me. I performed in a prison in the prison, the band in prison put out for this guy. It was promoted, promoted. No one showed up. Not a soul. I'm in the middle of a major prison. Empty cells. It's 8:00 and he goes, okay, go ahead. So, I performed for like thirty minutes for this one dude, who was just like, okay, tell them to go, contract. And I did. It got more money. It's the hustle. And that's what Philly to me, how the work is created. Because I'm not waiting for anybody to give me any money because I'm a non-profit. I think for profit because of what I've already been through.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2026",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "246.0,299.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So, yeah, I'm in Chicago selling incense and soap on the fucking bus. And we're performing at a thirty-five hundred seat sold out place. Yeah, I'm selling incense at my hotel to the maids. Yeah. I'm doing that. That's what I do. You know what I mean? I'm a hustler. And so however I can make the money, I'm going to make that other financial stream come through and that affects the work because that means I'm not stymied. My creation is not sty ... me, meaning my creativity is not stymied. I just get to do it when I do it because I'm not worried about whether I have the money or not. You know, I do it in stages. I did heaven. Heaven was like the second stage here. I want to do it again and be a third stage, boom, boom. I'm ready to do it whenever I'm ready to do it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2027",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "299.0,344.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think that's what really informs that sort of idea that nothing stops you if you want to do what you need to do. Just get it done. People will do things for free if you ask them. And you tell them, alright, this is the deal. You make a deal out of it. Like, hey, I'll pay you next year. And I do it. I make sure I pay them next year. I have no problem asking or negotiating. That's what I do. So, but it also gets me in trouble in academia. Not academia in the presenter world. Because they're not used to ask. I had someone say, well, Rennie, we only have twenty thousand dollars and we can't. I said, well, give me half the door. She almost choked on the phone. She said, half the door? I said, yeah, half the money that you charge for ... I said give me half the door. No one ever asked them that. You know what I mean?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2028",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "345.0,392.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But we would also have to go through profilings, like people send the cops to our shows. Because when a hip hop company comes in, it's like, where do you want us to stand. And we're like, well, have a seat and enjoy the show. You know what I mean?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2029",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392.0,404.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-rennie-harris-4-of-6-canvas-1-rennie-harris-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Like people protesting. There was protesting outside of theaters when we performed. This was the early nineties when no one knew what the hip hop dance theater was. There was literally picket signs ... No hip hop, no hip hop. Yeah. Mm-hmm (affirmative)- I had dancers leave a gig, saying Rennie, I can't do this, I've got to go. They're racist. The mayor's here and they want to know what we're talking about and blah blah blah. None of them cast. It was really a hard ... We didn't see the light of day till maybe 2001. Where, okay, Rennie has performance coming. But from 1991 till 2001, it was pushing through everybody's stereotypes of what hip hop was and is for them.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interview, Transcript, Rennie Harris, Gesel Mason, You Are Why!, No Boundaries Performance 2030",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-rennie-harris-4-of-6/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "404.0,454.0"
+        }
+      }
+    }
+  ]
+}

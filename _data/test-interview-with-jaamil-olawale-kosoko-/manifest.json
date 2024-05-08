@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://makenziepeacock.github.io/NoBoundaries/test-interview-with-jaamil-olawale-kosoko-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Test: Interview with Jaamil Olawale Kosoko " ] },
+    "label": { "en": [ "Interview with Jaamil Olawale Kosoko " ] },
     "items": [
       {
         "id": "https://makenziepeacock.github.io/NoBoundaries/test-interview-with-jaamil-olawale-kosoko-/canvas-1/canvas",

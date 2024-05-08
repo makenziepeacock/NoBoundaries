@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/test-interview-with-jaamil-olawale-kosoko--canvas-1-gesel-mason.json",
-            "label": {
-              "none": ["Gesel Mason"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/test-interview-with-jaamil-olawale-kosoko--canvas-1-daniel-beahm.json",
             "label": {
               "none": ["Daniel Beahm"]

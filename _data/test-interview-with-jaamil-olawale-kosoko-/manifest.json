@@ -8,6 +8,32 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/test-interview-with-jaamil-olawale-kosoko-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2795.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/test-interview-with-jaamil-olawale-kosoko--canvas-1-jaamil-kosoko.json",
+            "label": {
+              "none": ["Jaamil Kosoko"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/test-interview-with-jaamil-olawale-kosoko--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/test-interview-with-jaamil-olawale-kosoko--canvas-1-daniel-beahm.json",
+            "label": {
+              "none": ["Daniel Beahm"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/test-interview-with-jaamil-olawale-kosoko-/canvas-1/paintings",

@@ -1,0 +1,845 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason.json",
+  "type": "AnnotationPage",
+  "label": "Gesel Mason",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah. She didn't have too much, though, did she? But you said how you often word the flow chart is that kind of talk it through ... ?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "12.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So this is just the beginning? You have this performance, but this is the beginning of a rehearsal?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.0,86.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "93.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Wow.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "154.0,163.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's interesting. It's interesting, the #negrophobia is interesting because as part of my school, something came up, I've been calling it hophobia, and what I realized is that you can have IHOP, which is internalized ho phobia, fear of being perceived as a ho, for being a ho, for being perceived as a ho. So that has come out of my work, this idea of ho phobia. So it was interesting to hear you say negrophobia, because that's been something that's been percolating in my work, this idea of ho phobia.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "214.0,263.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, the piece that I did before this one, which is called antithesis, was also exploring a lot with women and sexuality and what's appropriate and what isn't. And it was called Women, Sex, and Desire, Sometimes you feel like a ho and sometimes you don't. And I'm the kind of person, I was like, \"Well, if I'm going to say some thing like sometimes you feel like a ho and sometimes you don't, then I need to talk to some hos. And so I was doing some work in D.C. with sex workers and whatnot and I'm also of the mind like there are not as many degrees of separation as people like to put between us and [crosstalk 00:05:16] ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "267.0,316.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And in all my work, I'm actually very interested in this, what we keep secret, what's considered taboo, which is also part of that secret, and how we create otherness. It's sort of like underneath all of these questions. And how do we live, love, and persevere, just in general. So when I did this work, again, it's like when you interact with other people, I just lean so much from them.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "317.0,351.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And also, it's just so interesting to see the questions that they struggle with. I was like that is everybody's question, like, \"What will my partner think of me if they know blank blank, blank, blank, blank? How do I, with my own self-image, did I sell out? Can you hold these questions, can you hold onto yourself even if this is the thing that you're doing?\" Like, how can you be like, \"Yeah. No, I have to do this and I'm okay\"?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "351.0,380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'm interested in where there's this sort of larger question of trauma. I'm like, \"Who is actually traumatizing us?\" Do you know? Like, these things are going to keep happening, they happen, they change, they evolve, but they are still happening, so I'm like, the thing that I can control is me and my thinking, so how do I, when I see those images, when I hear that story again, when I feel like you want to leave something in the past, but it's like how do I every single time take that hold and move forward, not in a forgiving sort of way, and definitely honoring that moment and that life and that presence and all of that and that violence.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "380.0,432.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But how do I not keep re-traumatizing myself and compounding? Because then it's like it's impossible. Do you know? It's impossible. So, just that idea of a ho phobia and working with those women and then working with the women that I worked with to create the piece, just this deep fear of being perceived as a ho. Like, I don't want to be by my partner, by society, and so all of these things that end up being off-limits, and this is how I ended up getting to antithesis and this exploration of the erotic and the exploration of pleasure.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "432.0,478.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And that's also generational, too, Is that a reclamation of the word? For me, it's more recognizing whether it's an internalized fear or something that you continue to impose on yourself. When is it put off limits because I'm afraid of being perceived as a ho? I'm afraid of being perceived as somebody who sells myself, I'm afraid of being perceived as somebody's who's less-than, who's giving herself away, who's ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "478.0,513.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "How do we think that translates into this project, to this negrophobia, ho phobia, but not even so much that, but the side things that continue to influence the way that we think about the Black body, the Black body in performance, because trauma? The complexity of presenting the body in what spaces. What comes up when we think about, I guess, maybe the complexity of one presenting the Black body with a Black body in performance? What are some of these things?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "620.0,691.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well I was actually wondering if you would talk a little more about that, through the intersections that you see, because I've heard you say how, when we were talking about this just this morning, often a part of a panel to be invited to contribute, and a lot of times we're the one representative, or whatever.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1093.0,1123.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But what has been nice in terms of being a part of this? And also, the reasons why it's important to you. You spoke a little bit to the ways that it's intersecting with your work. Why is it nice to be a part of something like this and in what ways does it deal with some of the questions that you're also dealing with?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1123.0,1151.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "One of the things you talked about and that you noted in the project as well is the curatorial aspect. And I'm curious what you find when thinking about that in this project?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1550.0,1571.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That brings up two things for me. One, is the reminder that Tommy De France gave us about how things interrupt. Now that is a crucial and exciting part of this conversation. How do each one of these pieces when they were created, what they do now, how they continue to interrupt?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1825.0,1862.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think that's the other thing that I was thinking about when we were talking at [inaudible 00:34:52] today. This idea about freedom. So, it's easy to go, \"Oh, that's old school.\" But the time at which it was made, there's this forging ahead, which is where I think whatever label makes sense, something gets called something because it keeps ... And then that can become the difference. Also, we talked about, which is true, our language tends to want to fix so that I understand it, and that dance is about flexibility in many ways. I'm always talking about, like so what does it mean as we continue to change and evolve and you have white bodies doing historically ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2088.0,2150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And how sometimes you're like, \"How do I feel about that? I'm not sure.\" And at the same time, as artists, we also have this desire to not be marked ... Like I love this thing that you're saying like Blackness is a texture, dance is a texture. It's not the things. There's this whole other thing, but of course, that's in there. You don't subtract it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2155.0,2177.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It can't subtracted.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2177.0,2178.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's a reality.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2179.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But also the freedom to be able to do this work came from the people who are continually are on the forefront, being labeled, being named, being put in a box, breaking out of that box, reconfiguring the box, moving forward, calling it something different, et cetera, et cetera. And you see the work that continually needs to be done of the forging ahead, of the interrupting and I think that's something that's exciting to think about in terms of the way that performance and Black bodies continue to interrupt what we perceive as ... I guess that's part of it, that's where the racism sort of comes in, there's a structure, because it wouldn't be an interruption if it was actually seen as, \"Oh this is the norm.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2181.0,2237.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So what's important about having that through a Black lens? So it's like, okay, we talk about the way that we continue to change, we [crosstalk 00:40:19]. Why performance? Why dance? Why the body? Why ... And I mean, as we see, we're pulling from all these people. Why look at this through the lens of Black performance theory?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2408.0,2441.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's a good question, actually. Well, I actually think I'm thinking about society, because we were talking about Obama, we're talking about 2105, we're talking about being firsts, interrupting spaces, places, cultures, structures. So it feels like we're talking about societal ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2450.0,2475.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And then I think another part of this is destructive in the sense of, well why look at something like ... So there's kind of two thises, theses, thises that are happening. The, in general, why look at Black performance? And then, why, because I think it's a little bit, also, speaking to this question that I have been asking which continues to evolve and shape of this like, well, is it worth having this question about Black dance?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2476.0,2511.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And there feels like there's two different type of definitions, the one that put us in the box of describing the specific period of time that somebody else was one, the expressive form, and this question of what is it that Black people are doing and making and creating that is still relevant to larger conversations? So, yeah, the this of performativity, Black expressive arts and society and what about this project also ... Is it important? Why is it important? Just that question, important.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2511.0,2556.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I actually just, I heard it ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2776.0,2777.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jaamil-olawale-kosoko-1-of-2--canvas-1-gesel-mason-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I saw Kate just go two, and I thought she meant it was two right now.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jaamil-olawale-kosoko-1-of-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2786.0,2790.0"
+        }
+      }
+    }
+  ]
+}

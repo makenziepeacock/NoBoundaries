@@ -8,6 +8,24 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-gesel-mason-2014-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 755.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-gesel-mason-2014--canvas-1-daniel-beahm.json",
+            "label": {
+              "none": ["Daniel Beahm"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-gesel-mason-2014--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-gesel-mason-2014-/canvas-1/paintings",

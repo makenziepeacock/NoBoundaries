@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-brenda-dixon-gottschild-1-of-2--canvas-1-gesel-mason.json",
-            "label": {
-              "none": ["Gesel Mason"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-brenda-dixon-gottschild-1-of-2--canvas-1-brenda-dixon-gottschild.json",
             "label": {
               "none": ["Brenda Dixon Gottschild"]

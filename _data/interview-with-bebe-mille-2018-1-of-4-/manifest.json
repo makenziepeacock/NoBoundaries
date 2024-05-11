@@ -8,6 +8,24 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-bebe-mille-2018-1-of-4-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 419.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-bebe-mille-2018-1-of-4--canvas-1-bebe-miller.json",
+            "label": {
+              "none": ["Bebe Miller"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-bebe-mille-2018-1-of-4--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-bebe-mille-2018-1-of-4-/canvas-1/paintings",

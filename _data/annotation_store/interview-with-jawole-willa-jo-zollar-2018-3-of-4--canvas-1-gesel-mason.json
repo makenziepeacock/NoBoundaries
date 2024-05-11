@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason.json",
+  "type": "AnnotationPage",
+  "label": "Gesel Mason",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, here's a question. I've been curious about ... You and I were having this conversation about history and current ... and legacy. And how we're bringing in ... Like you were talking about the strong techniques, but it was like, \"But they were doing something. There was something that they were understanding.\" But then, you start doing the shapes of that, and it loses its-",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,117.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So, I'm curious. You just received a Lifetime Achievement Award. That's amazing, and congratulations. I feel like, some real recognition, for the work that you've done, the body of work that you've done. I don't know how to, I don't know what the question is. I think there's something about, how you see yourself in this trajectory, in this history, in this legacy, where you see Urban Bush Women going? Where, how you're reaching back, and going forward at the same time, or any other thing that comes to mind?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "118.0,160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[inaudible 00:05:11]. How'd you get in? [inaudible 00:05:10] It's Chimmy. I don't know if you ever met Chimmy. Chimmy Chang? And Jordan Worley.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "316.0,320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You guys peek your head around and wave for a second. We're doing our interview. You gotta keep peeking. Can you see? Okay, nevermind.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "321.0,333.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We're good?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "336.0,338.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "One of the questions I asked when I did this 10 years ago, was about black dance. And if there was such a thing. And if there is such a thing. And, one of the reasons I started doing this work again was, I had an opportunity to revisit it in 2014 and do some of the works, and go and perform it at a university I Albany. They're probably getting started. And I felt like ... There they go. I felt like the conversation was really important to still be having, and I feel like we're in a real interesting moment right now in our American history, where we're even revisiting stuff that ... I feel like we're already in this cycle or something. So, I'm just wondering one, what about ... Can you hear that?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "341.0,397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I think in some ways I've shifted from this question about what is black dance, but what perhaps is important about a project like this. I'm interested in seeing why people make the work that they make-",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "401.0,419.0"
+        }
+      }
+    }
+  ]
+}

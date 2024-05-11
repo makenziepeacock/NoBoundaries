@@ -8,6 +8,40 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 419.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-speaker-4.json",
+            "label": {
+              "none": ["Speaker 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar.json",
+            "label": {
+              "none": ["Jawole Willa Jo Zollar"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-speaker-3.json",
+            "label": {
+              "none": ["Speaker 3"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/paintings",

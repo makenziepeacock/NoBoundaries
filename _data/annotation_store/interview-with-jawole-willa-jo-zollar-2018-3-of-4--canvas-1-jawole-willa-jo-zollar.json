@@ -1,0 +1,437 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar.json",
+  "type": "AnnotationPage",
+  "label": "Jawole Willa Jo Zollar",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... some kind of, embrace of balletic, or modern and postmodern conventions. So I became interested in that, and maybe spent about 10 years exploring that. I feel like now, I'm more back to where I started, but with an elevated sense of where I can push and how things come out.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,28.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The other thing is that less comes out of my body now. My physical imagination isn't what it was many years ago, so the dancers are doing things that I would not dream of doing, so they generate much more of the movement and my role becomes much more directorial. As opposed to, maybe in the early days of Urban Bush Women, it was maybe 50-50? Coming out of them and coming out of me, and I would say, maybe now it's 80% coming from them.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.0,62.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's really interesting, because then it keeps a generational perspective that I don't have in my body. At the same time, what I enjoy about this work is that it's about funk. So the funk is underneath it, in different kind of ways as it explores this very particular subject matter.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "62.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "117.0,118.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. I think the Lifetime Achievement Award, when I got the call, it was kind of like, \"Whoa!\" It was quite a surprise, because it was like, \"Wait a minute! I'm not done! I got, I still have things to do.\" And previously, I had thought about, that that goes to people much older.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "160.0,175.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But when I really look at the history and legacy of Urban Bush Women, and what we've done over the years, and the kinds of things that we've done, both on the concert stage, within community settings, and within our leadership development work, that ... For me, they're all related to art making, and it's the art making impulse that guides all of these.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "175.0,205.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So, I think what I've become interested in, the medium is something that I become interested in, in a particular time and place. So maybe it's, maybe it is kind of like there was one point where I became interested in more of the balletic shapes, and then another time, I'm interested ... Now, I'm really interested in what the street dances that come up out of youth.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.0,234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Because I feel like, that's where I started. How they inform discovery of choreographic language, particularly as we were doing the Walking with 'Trane work, where we were looking at bebop, which is a very intricate, and bebop, and hard bop, and free bop, all of that. It's a very intricate relationship to the music.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "234.0,258.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So, therefore, all of the things that people do in their bodies that were not necessarily part of how my generation danced; become very interesting, and that language to me, it informs the work. So, who knows? In 10 years, maybe I'm interested in Bluto. Who knows what the language that I might be delving into, and interested in? So, the journey is just, it's the journey.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "258.0,294.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "320.0,321.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interview-with-jawole-willa-jo-zollar-2018-3-of-4--canvas-1-jawole-willa-jo-zollar-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hi.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jawole Willa Jo Zollar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "333.0"
+        }
+      }
+    }
+  ]
+}

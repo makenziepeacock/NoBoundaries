@@ -8,6 +8,32 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-thomas-defrantz-2015-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3821.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-thomas-defrantz-2015--canvas-1-crew.json",
+            "label": {
+              "none": ["Crew"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-thomas-defrantz-2015--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-thomas-defrantz-2015--canvas-1-thomas-defrantz.json",
+            "label": {
+              "none": ["Thomas DeFrantz"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-thomas-defrantz-2015-/canvas-1/paintings",

@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with David Roussève" ] },
+    "items": [
+      {
+        "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2790.0,
+        "items": [
+          {
+            "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 2790.0
+                },
+                "target": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

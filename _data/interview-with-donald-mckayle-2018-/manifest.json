@@ -8,6 +8,80 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-donald-mckayle-2018-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4322.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-girl.json",
+            "label": {
+              "none": ["Girl"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-azmin.json",
+            "label": {
+              "none": ["Azmin"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-speaker-3.json",
+            "label": {
+              "none": ["Speaker 3"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-girl-.json",
+            "label": {
+              "none": ["Girl:"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-speaker-7.json",
+            "label": {
+              "none": ["Speaker 7"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-donald-mckayle.json",
+            "label": {
+              "none": ["Donald McKayle"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-donald-mckayle-2018--canvas-1-male.json",
+            "label": {
+              "none": ["Male"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-donald-mckayle-2018-/canvas-1/paintings",

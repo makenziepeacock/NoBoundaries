@@ -1,6 +1,6 @@
 ---
-index_term: David Rousséve
-title: David Rousséve
+index_term: David Roussève
+title: David Roussève
 layout: term
 
 ---

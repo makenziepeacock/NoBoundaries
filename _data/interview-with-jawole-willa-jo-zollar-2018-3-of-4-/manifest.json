@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with Jawole Willa Jo Zollar [2018] (3 of 4)" ] },
+    "items": [
+      {
+        "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 419.0,
+        "items": [
+          {
+            "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 419.0
+                },
+                "target": "https://makenziepeacock.github.io/NoBoundaries/interview-with-jawole-willa-jo-zollar-2018-3-of-4-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

@@ -8,6 +8,56 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2790.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-david-rouss-ve-canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-david-rouss-ve-canvas-1-david-rouss-ve.json",
+            "label": {
+              "none": ["David Roussève"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-david-rouss-ve-canvas-1-speaker-4.json",
+            "label": {
+              "none": ["Speaker 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-david-rouss-ve-canvas-1-david-rouss-ve-.json",
+            "label": {
+              "none": ["David Roussève:"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-david-rouss-ve-canvas-1-speaker-3.json",
+            "label": {
+              "none": ["Speaker 3"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/interview-with-david-rouss-ve-canvas-1-speaker-5.json",
+            "label": {
+              "none": ["Speaker 5"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-david-rouss-ve/canvas-1/paintings",

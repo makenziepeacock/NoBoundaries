@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-bebe-mille-2018-1-of-4-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Interview with Bebe Mille [2018] (1 of 4)" ] },
+    "label": { "en": [ "Interview with Bebe Miller [2018] (1 of 4)" ] },
     "items": [
       {
         "id": "https://makenziepeacock.github.io/NoBoundaries/interview-with-bebe-mille-2018-1-of-4-/canvas-1/canvas",

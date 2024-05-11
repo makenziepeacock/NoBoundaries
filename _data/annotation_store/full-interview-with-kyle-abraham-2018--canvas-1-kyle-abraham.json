@@ -1,0 +1,2855 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham.json",
+  "type": "AnnotationPage",
+  "label": "Kyle Abraham",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "12.0,13.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. Hi, I'm Kyle Abraham, artistic director of Abraham in Motion. I don't know what else you want me to add. I can say that again without the weird pause. But anything else you want me to add to that, or?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.0,27.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure, sure. I'll just do one more and then just ...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "37.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hi, I'm Kyle Abraham, artistic director of Abraham in Motion.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "39.0,46.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think for each question I should do 80's or 90's dance move.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "65.0,69.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. So, I mean, I think, um ... Yeah, because ...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "71.0,75.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "75.0,79.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. I started my company when I was in graduate school, kind of in my second year in grad school, so around 2005. But the company really started to shift in a really exciting way when we did our first evening length work, the radio show, which premiered in 2010, first in Pittsburgh at the Kelly Strayhorn Theater and then in New York at Danspace Project at St. Mark's Church.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "96.0,126.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No. The company started when I was in graduate school at NYU. My under graduate training was primarily at SUNY Purchase; that's where I got the majority of my dance training over those four years.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "133.0,149.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yep.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "171.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "174.0,178.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I started dance really late and I was really surprised and excited to be accepted to Purchase. I had only danced for about a year-and-a-half prior to being accepted to the school. I was told upon auditioning that I needed a lot of technique and once I got into the school, I didn't have a scholarship but I was just really anxious and impassioned by the idea of being at a school that so many of the dancers that had studied or danced with Bill T. Jones in some capacity attended to Purchase, excuse me ... So many of those dancers attended Purchase. So I decided to apply to that school and yeah, as I was saying, I got in seemingly on like the skin of my teeth. But my family was always really supportive of that experience. Initially, they wanted me to go to a historically black college, so I went to Morgan State for a year in Baltimore. But they didn't really have much of a dance program at Morgan State, so I reached out to a good friend of mine that was studying the visual arts at Purchase and went to visit her and while I was there, I planned on auditioning for the school and I've never looked back.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "178.0,260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No. I grew up in Pitts ... Excuse me.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "265.0,266.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I grew up in Pittsburgh, Pennsylvania and a lot of my work references my time in Pittsburgh. It's such a diverse city and in the most exciting of ways. It's a city where there's a lot of art and culture but in a way that is not really boastful but is just present. And I think that the presence of art in our community is, in some ways, reflected in the way that I like to kind of create conversations with the every day while blending these kind of like, these elements of things that are viewed as kind of high art with low art, or what have you. But just blending cultures and perspectives to make the work that I'm interested in.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "267.0,311.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. I'm interested in making ... I'll start that over.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "316.0,322.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm interested in making all different types of work, really. I love work that has to do with society. Generally speaking, it's coming from my vantage point and my lens and my experience being that I'm the choreographer of the work. But I do like to kind of, at times, make work that can have an alternate perspective, work that raises questions and raises conversation. Sometimes I do wanna make something that's just pretty, but more times than not, I'm really interested in work that can kind of spark questions, passion, love, empathy, anger, just get people charged in some capacity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "322.0,366.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh, I see. I can just, I can do it like here so it's not as much of a thing as it is up here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "379.0,382.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Okay. And I can bring it ... If I move them down here, there's less of a shadow.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "385.0,388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Than like up here, you see a lot more shadow on the shirts.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "388.0,392.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A Harry Potter shadow.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "418.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There we go. I don't know.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I can, I can ... I can still get a lot of hand movement in here and there's not as much shadow as it is if it's closer to my body.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "431.0,437.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I don't ... Actually, it doesn't even seem like as much shadowy now.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "437.0,440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "440.0,442.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Okay.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "467.0,468.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I only-",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "477.0,478.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yep, I only went to Morgan State for a year. After that year is when I transferred to Purchase and I wound up doing four years at Purchase before, yeah, before I finished my BFA.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "479.0,490.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. You know, I don't know. I think I always loved dance and dancing but in terms of like influences that led me to dance, I mean probably Prince and just social dance and just love of social dance. I was a big rave kid, so I think there's something about rave culture where ... There's something about rave culture where the music is so ... It's so spread in a way that you can take a lot of different ... You could go in a lot of different directions. So by the time I was kind of like diving into the rave scene and then also just improvising in my room, playing Prince or playing The Cranberries or The Smiths or whatever I was listening to, at a certain point, I started getting more and more investigative about different ways of moving. And so when I saw my first dance performance when I was 16, it really opened my eyes to a whole other world of dance that I just hadn't even thought about or considered. My bed was really big in my kind of seemingly small room, so there wasn't much space to dance in. I could sit there, I could play my cello, I could play different instruments in my room, but I couldn't actually do much dancing there. So I think that's kind of what got me to actually taking a dance class was knowing that I needed space to try and move as expressively as I wanted to.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "506.0,596.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mm-hmm (affirmative). For a long time.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "602.0,604.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I mean, I probably ... What grade did I start in? Maybe third grade. Yeah, probably third grade. I started ... First instrument I ever played was piano and then from piano I did cello, violin, but I went back to the cello 'cause I didn't like playing violin, then french horn, then chorus, then, yeah, just continued to play cello up until ... I think the last time I played was probably shortly after senior graduation from high school, playing at graduation and then I think was a blackout. I was playing while I was starting to learn dance but I think like studying dance and cello just became too much back and forth and my dance bag was a lot lighter than having a cello on my back, so it made it a lot easier.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "607.0,662.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Did I?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "667.0,668.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The closest I've probably come in more recent years to working with a cello in a performance was when I did Restless Creature, performed with Restless Creature for Wendy Whelan's project. And when we did our Joy Season, we had all live music and a lot of the score was composed by a cellist. So you hear a lot of cello in that score. But other than that, not that I can think of, off-hand at least.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "669.0,696.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Working with Wendy was amazing. She was really open. She was open to whatever I wanted to throw at her. And I think the goal for me was to find a way to challenge her but also allow her to feel like she had some kind of ownership over what we were doing. So I wanted to also try to kind of let her live in my skin, so to speak. When I asked her what she wanted to get out of the collaboration, she said that she wanted to feel transformed. And I allowed that to be the impetus and inspiration behind the work. The duet that we made was called Circ, excuse me ... The duet that we made was called The Serpent and the Smoke and it kind of has this kind of transformative vibe to it. Even if it's like, in some ways, a mythical story that I created that I thought existed that didn't really exist. I think you get a sense of that when you're watching the duet.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "700.0,765.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "My process. Geez. I think it kind of depends on what day you're asking me and to the how I describe my process. At the moment, it can seem a bit scattered because the resources are coming from different ways and depending on who I'm working with, or which company, or which dancers, the way that I feel like diving in can really shift. So that's something I'm really starting to try to ... I don't think there's any one way for me to really create a work or to start developing a work. If I'm working with my company, the way in which we go about making a work shifts pretty much every single time we make something. Similarly, when I'm working with a company or an artist on a solo project or a duet or something, it's trying to get a sense of either how they move or what they like to do that hopefully shifts and/or helps generate something in the process.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "768.0,833.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. I think you could say I have a strong relationship to music. Music is my first love. It's part of, probably, the irony of me making a show for my company, this piece called Dearest Home, which the thought for me was to divorce myself from that first love in making a work that's rooted in love, longing and loss. So the dancers never hear any music, it wasn't choreographed to any music. So that was the experience. But generally speaking, I try to find some kind of sound score to be playing with, or some kind of playlist, that connects me to the artist that I'm collaborating with.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "844.0,882.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, I was trying to, for our work, I was trying to really figure out what the point of entry was sonically and story wise, et cetera, et cetera. And so I just kind of kept going back and forth in a couple different sounds and ideas. I was sending you a couple different videos of some solos that I'd made for either myself or a dancer in the company. And I think probably in some ways it was because I work a lot with my students here at UCLA, mentoring some of them. And one of them had been using a lot of Nina Simone and I'd gone to yoga class, one of my yoga classes, a couple nights before you were coming to town and my yoga teacher was playing some Nina and it just seemed right, it seemed like there was a nice ... There's something so beautiful and mature and heartbreaking and strong and distinctive about her voice that I thought could really compliment our collaboration.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "887.0,950.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I don't think there's a title. I don't know, I can ... I'll try and ask the dance gods for some title, but I got nothing right now.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "961.0,971.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. I mean getting the MacArthur Award was just a, kind of like, otherworldly experience, really emotional. I was in a place where it was hard for me to think about receiving accolade and I started immediately thinking of my father. I was thinking, \"Oh, you know, I'm so happy that I have this award, but so sad that he wasn't here to see that I will be okay.\" But aside from that, you know, it just ... It's been an award that's been a ... It's been a, excuse me. I'll start over.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1005.0,1045.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Receiving the MacArthur has been something that really just, it really changed my life in a lot of ways. It allowed me to strip away and divorce myself from anything that seemed negative, or people that seemed negative. I realized that I didn't need to work with or around people that didn't bring me joy. I think I went through definitely some ups and downs in terms of doubting myself and feeling that although I did receive this wonderful accolade, that I felt as if my peers, or other people that had maybe seen my work, didn't feel that I was deserving and I allowed that to kind of get in my head for a period of time. And/or feeling as if I needed to prove something to other people. But I think in a really beautiful full-circle way, the last year or so, I really decided that what I do needs to be enough for me. I wanna keep challenging myself but for myself and not for anyone else. I love the people I get to work with on a continuous basis and it's trying to figure out the best ways to support them, support me, support the work and ways in which I can kind of have some kind of longevity in my career. And the MacArthur really helps to set up possibilities for longevity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1045.0,1131.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. Geez. That's a complicated one.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1218.0,1224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I always ... Excuse me. I'm always asking myself whether or not I feel like a work is done, whether or not I like it, whether or not I think other people will get what I'm trying to say or do. And sometimes it's important and sometimes it's not. I do think there is that fine line and that fine balance of whether or not you're trying to please an audience and/or please yourself or please the people that are performing and/or living in that work. All of which probably has some ... Has some presence in my mind. I do, I do ... Yeah, I definitely am, I'm ... More times than not, there's a good amount of self-doubt that comes into my mind when I'm in the studio or once I get home or when I'm driving home or on the subway if I'm in New York. But I think it depends on the work. There's some works that actually come together so quick that the doubt comes in because I'm like, \"Wow, that came together really quickly and I really like it, but it shouldn't have been that easy. I wonder if it really works?\" Or the opposite where something is just take ...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1224.0,1298.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There's no way I'm gonna finish any time soon.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1298.0,1299.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I wish.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1301.0,1303.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Uh, that's-",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1304.0,1305.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. Yeah, I'm making a new solo for myself for the Joyous ... I'm just waiting for a second.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1306.0,1317.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, I'm making a new solo for myself for the Joyous Season in May. It's called Indy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1321.0,1325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Indy. I-N-D-Y. It's my first time getting to do more than five minutes of dancing, it seems like, in a really long time, especially in a fully produced kind of way. So it's exciting but I have so much more work to do on it. So hopefully I can get that done at some point in my life, I don't know when, but we'll see.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1327.0,1354.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think you were asking about doubt and like-",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1357.0,1359.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1361.0,1365.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. I don't remember what I was saying, my train of thought, but ... Yeah, I think there's definitely points when I am doubting what I am doing, regardless of how easy something may come together versus how complex or kind of like painstaking a process may be. Sometimes I can ... It may take me a year to two years to make something, sometimes I can make something that's the same length in 10 days. And I don't know sometimes which one I like better, one or the other. But yeah, I think it's just, it's that settling moment where I have to just kind of be like, \"Yeah, you know, I really dig this.\" There's definitely times where I make something and I'll be like, \"You know what? I don't know if I'm gonna make anything better than that for years to come.\" And then the next thing, I've already put this doubt in my mind so it kind of feels like it's going to fail. But it's such a give and take and exercise in ... I don't know. I don't even know. I don't even know. But it's something I'm definitely working towards.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1365.0,1440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I do feel really great about the group works that I've made for our new season. The irony, though, is it's, again, one of those dances that we made, one of them came together really quickly and I didn't know how it was gonna go over but every time people come in and watch it, they say really wonderful, favorable things about it, which is great. But I just didn't really know how it was gonna go over. So it's great to know that it's been received well.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1440.0,1467.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The solo, I have no idea, no clue.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1467.0,1472.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. When it comes to feedback on the work itself, I have a team of folks that I connect with. Usually anyone that's collaborating with, I really wanna hear their input and I want them to tell me what doesn't work. I think when people work with me, they know how important that is to me. So my lighting designer for Indy is Nicole Pearce, but generally I work with Dan Scully and Dan is lighting all of my other works on the program. And I always listen to his feedback on everything. Karen Young is our costume designer; she's really verbal and really dependable and just brilliant, so I listen to her. If my dancers are ever watching the work that they're not in, or work that they are in, they tell me the what's what and I appreciate that. I have a dramaturge that comes in sometimes to work with me, my friend Charlotte Brathwaite. Yeah, I'm working with Margie Gillis on my solo, having her feedback and kind of mentorship on kind of solo exploration.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1476.0,1541.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But something that's really important to me is just having that good support system, so I talk ... There's two choreographers that I talk to in great deal. I talk to Camille A. Brown a lot about dance and professionalism and our struggles and just our whole experience. We kind of grew up together, so it's great to kind of be able to have that conversation with her. Darrell Grand Moultrie is another choreographer I speak to. Staycee Pearl, another choreographer. These people are folks that I can be really real with, stripped down. I don't have to feel bad if I feel bad. I think that was something, with the MacArthur, where people were like, \"Well, you can't struggle, you know, like you're fine. Financially, you should be good.\" But it's not sometimes about that. There are so many other facets to what we do and how we're doing it that can affect us emotionally and physically. So it's great to have these people that I can kind of just speak to in the most stripped down and honest way.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1541.0,1610.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well those are, to me, two completely separate questions for, yeah, a host of reasons.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1669.0,1678.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "If I'm thinking about black dance and the way people are perceiving black dance, yeah, I definitely think there are certain stereotypes that still align with maybe a certain specific time capsule period in the black dance experience. I think a lot of people tend to think about work from like maybe late 70's to mid-90's. But I love that we can question that and we can show more examples of variety and the spectrum can constantly shift and change. And I think that's part of what the ideals and philosophies behind having an International Blacks in Dance conference is or was to be doing, to really be showing a much broader spectrum of work that's out there made by black choreographers and artists.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1678.0,1743.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The second part of the question, though, I think is a broader thing. I love the conversations that are happening now about identity and about appropriation and about culture and about the richness in people's individual experience and in the history of the black body. I don't think those same conversations were happening on a larger scale and in a way that was really accepted before. But now, I think that although in certain circles we had power with our voice, I think that power is becoming more and more magnified by people who are being more and more, seemingly, acceptable, or, sorry, seeming more and more recepta ... No, no, that's not a word. Can't think of the word. People who are more and more open to hearing, seeing, experiencing what different black lives, different black bodies, have to say when talking about our culture, our history and kind of what our place is in this world.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1743.0,1819.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. My work is ... To me, my work is always about, in some way, shape, or form, about who I am and where I come from. Regardless of who's dancing the work, there's always a bit of me in there. So it's important for me to always be present in whatever I'm making because, otherwise, I just don't see the point. But ... I don't remember the other part of the question.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1826.0,1855.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh, art in our society today, is that?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1858.0,1860.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. Yeah, I mean, I think ... Art has always played a powerful role in society and will always continue to do so. I think it's a really powerful thing for the president's port ... Our previous president, everybody's favorite president. I think for Obama's portrait to be from a black, gay man, that says a lot, that's an artist. I mean, when you're looking at his portrait in comparison to all of these other portraits, it's unapologetically colorful and filled with life and filled with pride. And I know that we are in a time when black folks are feeling good about themselves in a way that it seems that regardless of how much we are told that we aren't worth x, y, and z, we know that we are worth that times a billion times over. Art can do that. People can do that by coming together. The work that we make is creating a conversation and bringing people together to feel empowered. Art in general is empowering. So, yeah, I don't know. That's all I got on that. And I just realized I was probably looking at the floor the whole time I answered that question, but who knows?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1896.0,1991.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. Geez Louise. So after college, after under graduate ... Excuse me. After under graduate school at Purchase, I danced briefly Bill T. Jones company. But so brief that sometimes it's not even listed in my bio. It was a great experience for a whole host of reasons. But I think the majority of my dance career, in terms of dancing for another company, came from dancing with David Dorfman, who I danced with, I think, for maybe five years. That's a different type of partnership and collaboration and one that I think has had a different type of impact on the work I make. We spent so much of the time talking in a room, and I think probably Bill does that as well, from what I experienced and what I know people have experienced, but in a different way that we're looking at community in a tighter-knit group of collaborators.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1996.0,2053.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Working with David in particular, I never felt like I couldn't just try something. Even if it didn't work, I still felt supported in some way and that's something I try to create for my company. I try to make the space so that if my dancers wanted to try something that seemed out of the box, or maybe even cliché, or what have you, what not, that there's nothing that I'm saying that doesn't make them feel that they're point of view isn't valid or important to hear. I know that some of the things I'm doing fit into all of those categories. Sometimes they're out of the box, sometimes they're cliché, sometimes they're really redundant. And so it's great to have this supportive group of folks who can tell me how they feel about what it is I'm saying or doing but in a way that's respectful of my growth in the same way that I wanna respect their growth and their journey.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2053.0,2110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sure. Yeah, I mean, it's good for me to think about my influences on a much broader scale. My parents are major influences for me. My father was such a gentle soul. I never heard him cuss once in my entire life, or say ... I think there was only one person I can ever think that he said anything slightly negative about. And that's something I could definitely grow from. So that was great. And my mother just had such an amazing sense of humor and giving spirit that it's something that I want to try to achieve in my lifetime. Ralph Lemon is a major idol of mine. As is Bebe Miller. My contemporaries, people like Camille Brown. There's so many artists that I look to. Carrie Mae Weems. I love what they do and how they do it. I love that these are people who can engage in conversation and they can stretch our ... Excuse me. They can stretch our art form beyond the proscenium stage. And that's something that's really exciting to me and that's what I hope to continue to achieve and strive for in the work that I'm making.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2129.0,2207.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Okay. Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2207.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No, no, I'm just messing with you, yeah. Okay.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2207.0,2221.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Ahh, the perfect day, watching my stories. What is a perfect day? I don't even know. That can constantly shift. I mean I'm definitely in a better place in my life in general so ... Yeah, I don't know. What does a perfect day look like? Sometimes that day is a day when I know that I made a really exciting impact on my students that I get to work with at UCLA. Sometimes it's when I have a breakthrough in rehearsal with my dancers and collaborators. Sometimes it's knowing that I got through however long of a list of e-mails or phone calls I needed to make. Sometimes it's just knowing that I can achieve just one goal in my day, maybe it's just, \"You know what? Yes, today was crazy, but I found 40 minutes to go run at the gym. And that was just for me, it wasn't for anybody else.\" So just trying to make that space I think can create a perfect day. Yeah. And, yeah, getting rest, which is really hard to do. That's important. Generally speaking, those are probably those things. Maybe having a moment to connect with a good friend. Maybe see some art in some capacity. If Brandi releases a new song and I get to hear it, I'm sure that day would be the perfect day. It's just simple stuff for me that kind of can make my day.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2229.0,2325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "My next day off? Oh, Jesus. I have no idea.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2327.0,2332.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. I know I take my birthday off, so I'll be off for a period of time in August for a few days. Probably like four days in August I'll be off.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2333.0,2343.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Couple months from now.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2346.0,2347.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2349.0,2351.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah. I don't know ... We didn't really talk much about the project. I don't know if there's anything you wanted me to dive in particular, in relation to the project, or ...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2356.0,2372.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Okay.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kyle Abraham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2376.0,2377.0"
+        }
+      }
+    }
+  ]
+}

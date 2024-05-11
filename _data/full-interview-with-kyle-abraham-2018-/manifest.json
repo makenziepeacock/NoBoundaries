@@ -8,6 +8,40 @@
         "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2394.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/full-interview-with-kyle-abraham-2018--canvas-1-speaker-2.json",
+            "label": {
+              "none": ["Speaker 2"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/full-interview-with-kyle-abraham-2018--canvas-1-speaker-1.json",
+            "label": {
+              "none": ["Speaker 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/full-interview-with-kyle-abraham-2018--canvas-1-gesel-mason.json",
+            "label": {
+              "none": ["Gesel Mason"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://makenziepeacock.github.io/NoBoundaries/annotations/full-interview-with-kyle-abraham-2018--canvas-1-kyle-abraham.json",
+            "label": {
+              "none": ["Kyle Abraham"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://makenziepeacock.github.io/NoBoundaries/full-interview-with-kyle-abraham-2018-/canvas-1/paintings",
